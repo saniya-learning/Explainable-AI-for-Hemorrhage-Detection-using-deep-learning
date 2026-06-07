@@ -1,0 +1,22 @@
+# requirements.txt
+# Install with: pip install -r requirements.txt
+
+# Core deep learning
+torch>=2.1.0
+torchvision>=0.16.0
+
+# DICOM reading
+pydicom>=2.4.0
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Demo UI
+gradio>=4.7.0
+
+# Utilities
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
